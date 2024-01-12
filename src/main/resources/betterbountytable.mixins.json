@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.radimous.betterbountytable.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "BetterBountyTable.refmap.json",
+  "mixins": [
+    "BountyTableContainerElementMixin",
+    "BountyTableRendererMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
