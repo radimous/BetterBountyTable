@@ -1,4 +1,4 @@
-# SelectRerolledBounty
+# BetterBountyTable 
 client side mod that improves the bounty table<br>
 
 <b>Features:<br></b>
