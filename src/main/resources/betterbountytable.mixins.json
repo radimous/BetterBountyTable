@@ -5,10 +5,10 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "BetterBountyTable.refmap.json",
   "mixins": [
-    "BountyTableContainerElementMixin",
-    "BountyTableRendererMixin"
   ],
   "client": [
+    "BountyTableContainerElementMixin",
+    "BountyTableRendererMixin"
   ],
   "injectors": {
     "defaultRequire": 1
